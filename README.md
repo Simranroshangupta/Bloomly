@@ -77,13 +77,13 @@ The project also served as a hands-on journey to learn Jetpack Compose, Material
 
 ### 🌸 Light Mode
 
-![Light Mode](screenshots/lightmode.jpg)
+![Light Mode](screenshots/light mode.jpg)
 
 ---
 
 ### 🌙 Dark Mode
 
-![Dark Mode](screenshots/darkmode.jpg)
+![Dark Mode](screenshots/dark mode.jpg)
 
 ---
 
